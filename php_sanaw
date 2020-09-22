@@ -1,0 +1,4 @@
+<?php
+$array = array(1, "eki", 1, "bir", "eki", 1);
+print_r(array_count_values($array));
+?>
